@@ -1,4 +1,4 @@
-Algoritmo ValidarRegistro
+	Algoritmo ValidarRegistro
 	Definir  edad Como Entero
 	Definir respuesta Como Caracter
 	Escribir "¿Cuantos años tienes?"
